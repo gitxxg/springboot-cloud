@@ -4,6 +4,8 @@
 
 # springboot-cloud
 
+:point_right: 参考学习文章：http://blog.csdn.net/forezp/article/details/70148833/ :point_right:
+
 :point_right:基于springBoot+springCloud构建的分布式微服务。:point_left:
 
 ## 目录结构
